@@ -29,10 +29,10 @@ I am a passionate full-stack developer with experience in Python, React.js, Node
 - **Features**:  
   - Analyzed ingredient quantities for each dish.  
   - Estimated the number of servings that can be provided based on available ingredients.  
-  - Built a mobile app for restaurant staff to manage inventory and servings efficiently.  
+  - Built a mobile app for restaurant staff to manage inventory and servings efficiently.
+#### [Other Personal Projects](https://github.com/Nghi1706?tab=repositories)  
 ## Passion & Goals  
 I am deeply passionate about **JavaScript, React.js, Node.js** and want to focus on **Frontend, Backend, and Mobile development** using these technologies. Always eager to learn, build, and improve! 🚀  
-
 ## 📫 Connect with me:
 - Email: [NguyenVanNghiDev](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdqGwgLpgDlHmHhndNRztlkKzGlhLLRCVpbZGNvlWGSZvfZCGsRsjTfGrVJnSBSTPGGjv)
 - Phone: (+84)966 862 072
