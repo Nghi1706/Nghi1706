@@ -8,6 +8,7 @@ I am a passionate full-stack developer with experience in Python, React.js, Node
 - **Mobile Development**: Flutter  
 - **Database**: PostgreSQL, MySQL, MongoDB  
 - **Cloud & DevOps**: AWS  
+- **Program**: Python  
 - **Automation**: Selenium
 ## Freelance & Personal Projects 
 ### Freelance Projects
